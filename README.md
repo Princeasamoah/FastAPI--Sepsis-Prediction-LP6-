@@ -1,11 +1,11 @@
-
+1
 📚 SUMMARY TABLE 📚
    =================
 
 
 |  | Project's Name | Article Link    | Deployment Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Embedding a Machine Learning Model into a Web Application             | https://www.linkedin.com/posts/kehinde-afolabi-9b0632271_sepsis-prediction-app-using-fastapi-activity-7099526392429645824-KaEk?utm_source=share&utm_medium=member_android  | https://huggingface.co/spaces/Kennymaur/FastAPI-Sepsis-Prediction-App |
+| 1 |  -Embedding a Machine Learning Model into a Web Application             | https://www.linkedin.com/posts/kehinde-afolabi-9b0632271_sepsis-prediction-app-using-fastapi-activity-7099526392429645824-KaEk?utm_source=share&utm_medium=member_android  | https://huggingface.co/spaces/Princeasamoah/FastAPI-Sepsis-Prediction-App |
 
 # Sepsis Prediction APP using FASTAPI ✨
 
@@ -63,7 +63,7 @@ I would like to express my gratitude to The Azubi Africa team for their valuable
 📞 **Contact**
 =================
 
-For any questions, concerns, or suggestions regarding  this project, please contact me at kehindeoafolabi@gmail.com.
+For any questions, concerns, or suggestions regarding  this project, please contact me at Prince Asamoag prince.asamoah17@gmail.com.
 
 
 
@@ -71,7 +71,7 @@ For any questions, concerns, or suggestions regarding  this project, please cont
 =================
 
 This project is developed and maintained by:
-AFOLABI Kehinde
+Prince Asamoah
 
 
 
